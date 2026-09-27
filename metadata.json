@@ -1,0 +1,6 @@
+{
+  "name": "PassTunisia",
+  "description": "AI-powered Tunisian tourism and trip planner with eclipse 2027 expeditions, curated attractions, and smart travel passes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
